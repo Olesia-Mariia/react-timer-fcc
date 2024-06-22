@@ -10,3 +10,5 @@
 ### `npm i` - to instal all dependencies
 
 ### `npm start` -  to start an app
+
+5. Wait a few minutes and an app will automaticaly open on http://localhost:3000/
